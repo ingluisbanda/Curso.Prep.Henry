@@ -1,0 +1,35 @@
+¿QUE ES UNA VARIABLE?
+
+Una variable es un valor que no tiene constancia a traves del tiempo, lo que quiere decir que puede 
+cambiar en cualquier momento. Por Ejemplo, el clima, la velocidad, la aceleracion.
+
+¿QUE ES UN STRING?
+
+Es una cadena de texto, por ejemplo la union de dos palabras conforman una frase, a su vez la union de frases
+conforman un parrafo, a su vez los parrafos forman un texto. Por tanto string nos hace referencia a la union de 
+letras, palabras o textos.
+
+FUNCIONES (ARGUMENTOS, RETURN)
+
+Las funciones son reglas dadas para que a un valor le corresponda otro de su misma caracteristica si se usa
+cierto tipo de regla.
+
+Un argumento representa los numeros o valores que se envian al procedimiento, dado ciertos parametros que se 
+usan para definir que tipo de valores acepta el procedimiento.
+
+Por su parte RETURN es una instruccion de retorno aplicada a una funcion, para que esta acate el procedimiento 
+y simplememnte devuelve un valor especificado por quien llama la función.
+
+DECLARACIONES IF
+
+Estas declaraciones hacen referencia a condicionales y se usan para procedimientos donde sea necesario el uso 
+de condiciones logicas como son: Verdadero o Falso, otras condiciones pueden ser si o no, entonces, etc. En 
+programación algunas de las condiciones se pueden cumplir y otras no dependiendo si se cumple una condicion y 
+la otra no, por tanto, este procedimiento es muy usado en la programacion.
+
+VALORES BOOLEANOS
+
+Cuando hablamos de booleanos debemos referirnos a las condiciones logicas verdadero y falso que se usan para
+programar. Estos procedimientos logicos se usan o se combinan para hacer procedimientos donde debamos escoger
+entre dos o mas opciones. Estos operadores logicos son estrategias que nos sirven para conectar palabras o 
+procedimientos y de esta forma ampliar o restringir los resultados esperados.
